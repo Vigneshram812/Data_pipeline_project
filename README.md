@@ -11,6 +11,7 @@ This project demonstrates a simple data pipeline that extracts, transforms, and 
 - `main.py`: Orchestrates the pipeline.
 - `requirements.txt`: Dependencies.
 - `README.md`: Project documentation.
+- `data.txt`: Loaded data.
 
 ## Setup
 1. Create a virtual environment:
