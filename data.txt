@@ -1,0 +1,3 @@
+{'name': 'ALICE', 'age': '30', 'city': 'NEW YORK'}
+{'name': 'BOB', 'age': '25', 'city': 'LOS ANGELES'}
+{'name': 'CHARLIE', 'age': '35', 'city': 'CHICAGO'}
